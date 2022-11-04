@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Centralized security administration',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Centralized security administration to manage all security related tasks in a central UI or using REST APIs.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Fine grained and Standardized Authorization',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      <>      
+        Enhanced support for different authorization methods - Role based access control, attribute based access control etc.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Centralized Auditing',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Centralize auditing of user access and administrative actions (security related) within all the components of Hadoop.
       </>
     ),
   },
