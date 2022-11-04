@@ -7,18 +7,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Apache Ranger',
-  tagline: 'Apache Ranger is Cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/ranger-source/',
+  tagline: 'Apache Ranger™ is a framework to enable, monitor and manage comprehensive data security across the Hadoop platform.',
+  url: 'https://hmohamedansari.github.io',
+  baseUrl: '/ranger-site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/ranger.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'mohamedansari', // Usually your GitHub org/user name.
-  projectName: 'ranger-source', // Usually your repo name.
-  trailingSlash: false,
+  organizationName: 'hmohamedansari', // Usually your GitHub org/user name.
+  projectName: 'ranger-site', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -60,8 +59,8 @@ const config = {
       navbar: {
         title: 'Apache Ranger',
         logo: {
-          alt: 'Ranger Logo',
-          src: 'img/logo.png',
+          alt: 'Ranger logo',
+          src: 'img/ranger.png',
         },
         items: [
           {
@@ -121,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Apache Ranger.`,
       },
       prism: {
         theme: lightCodeTheme,
