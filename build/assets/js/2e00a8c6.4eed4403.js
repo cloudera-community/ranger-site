@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkranger_site=self.webpackChunkranger_site||[]).push([[7546],{4898:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/ranger-source/blog/tags/hola","allTagsPath":"/ranger-source/blog/tags","count":1}')}}]);
