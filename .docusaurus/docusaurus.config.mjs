@@ -6,12 +6,12 @@
 export default {
   "title": "Apache Ranger",
   "tagline": "Apache Ranger™ is a framework to enable, monitor and manage comprehensive data security across the Hadoop platform.",
-  "url": "https://hmohamedansari.github.io",
+  "url": "https://cloudera-community.github.io",
   "baseUrl": "/ranger-site/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/ranger.png",
-  "organizationName": "hmohamedansari",
+  "favicon": "img/favicon.ico",
+  "organizationName": "cloudera-community",
   "projectName": "ranger-site",
   "i18n": {
     "defaultLocale": "en",

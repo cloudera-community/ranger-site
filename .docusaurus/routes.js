@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/ranger-site/__docusaurus/debug',
-    component: ComponentCreator('/ranger-site/__docusaurus/debug', 'c6b'),
-    exact: true
-  },
-  {
-    path: '/ranger-site/__docusaurus/debug/config',
-    component: ComponentCreator('/ranger-site/__docusaurus/debug/config', '33e'),
-    exact: true
-  },
-  {
-    path: '/ranger-site/__docusaurus/debug/content',
-    component: ComponentCreator('/ranger-site/__docusaurus/debug/content', '455'),
-    exact: true
-  },
-  {
-    path: '/ranger-site/__docusaurus/debug/globalData',
-    component: ComponentCreator('/ranger-site/__docusaurus/debug/globalData', 'c67'),
-    exact: true
-  },
-  {
-    path: '/ranger-site/__docusaurus/debug/metadata',
-    component: ComponentCreator('/ranger-site/__docusaurus/debug/metadata', 'fb2'),
-    exact: true
-  },
-  {
-    path: '/ranger-site/__docusaurus/debug/registry',
-    component: ComponentCreator('/ranger-site/__docusaurus/debug/registry', 'eae'),
-    exact: true
-  },
-  {
-    path: '/ranger-site/__docusaurus/debug/routes',
-    component: ComponentCreator('/ranger-site/__docusaurus/debug/routes', '6fb'),
-    exact: true
-  },
-  {
     path: '/ranger-site/blog',
     component: ComponentCreator('/ranger-site/blog', '8e7'),
     exact: true

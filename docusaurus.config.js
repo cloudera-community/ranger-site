@@ -8,15 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Apache Ranger',
   tagline: 'Apache Ranger™ is a framework to enable, monitor and manage comprehensive data security across the Hadoop platform.',
-  url: 'https://hmohamedansari.github.io',
+  url: 'https://cloudera-community.github.io',
   baseUrl: '/ranger-site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/ranger.png',
+  favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'hmohamedansari', // Usually your GitHub org/user name.
+  organizationName: 'cloudera-community', // Usually your GitHub org/user name.
   projectName: 'ranger-site', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
