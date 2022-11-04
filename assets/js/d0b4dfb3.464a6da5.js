@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkranger_site=self.webpackChunkranger_site||[]).push([[1649],{2050:e=>{e.exports=JSON.parse('{"permalink":"/ranger-site/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkranger_site=self.webpackChunkranger_site||[]).push([[1799],{3636:e=>{e.exports=JSON.parse('{"permalink":"/ranger-site/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
