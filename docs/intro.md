@@ -2,15 +2,22 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Ranger Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Apache Ranger in less than 15 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by **Setting up a Apache Ranger in your local machine manually**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Or **Try Apache Ranger in docker** by following the steps below.
+```bash
+docker run apache ranger
+```
+
+<!--- 
+[docusaurus.new](https://docusaurus.new)**. 
+-->
 
 ### What you'll need
 

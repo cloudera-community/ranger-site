@@ -11,7 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "Ranger Intro",
         "href": "/ranger-site/docs/intro",
         "docId": "intro"
       },
@@ -86,8 +86,8 @@
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "Ranger Intro",
+      "description": "Let's discover Apache Ranger in less than 15 minutes.",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {

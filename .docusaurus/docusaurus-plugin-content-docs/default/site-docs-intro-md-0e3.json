@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Ranger Intro",
+  "description": "Let's discover Apache Ranger in less than 15 minutes.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
