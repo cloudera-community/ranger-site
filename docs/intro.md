@@ -24,7 +24,7 @@ docker run apache ranger
 - [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+## Install Ranger manually
 
 Generate a new Docusaurus site using the **classic template**.
 
