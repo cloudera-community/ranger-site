@@ -1,6 +1,8 @@
-# Website
+# Apache Ranger Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+You are most welcome to make any improvements to the Apache Ranger site [Apache Ranger](https://ranger.apache.org/).
+
+Please follow the steps below to setup a local dev environment to modify the Apache Ranger website.
 
 ### Installation
 
