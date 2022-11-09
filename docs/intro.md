@@ -26,7 +26,7 @@ docker run apache ranger
 
 ## Install Ranger manually
 
-Generate a new Docusaurus site using the **classic template**.
+Install Ranger Manually following the steps below **classic template**.
 
 The classic template will automatically be added to your project after you run the command:
 
