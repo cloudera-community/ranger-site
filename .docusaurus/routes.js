@@ -3,68 +3,103 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/ranger-site/__docusaurus/debug',
+    component: ComponentCreator('/ranger-site/__docusaurus/debug', 'ffa'),
+    exact: true
+  },
+  {
+    path: '/ranger-site/__docusaurus/debug/config',
+    component: ComponentCreator('/ranger-site/__docusaurus/debug/config', 'd9b'),
+    exact: true
+  },
+  {
+    path: '/ranger-site/__docusaurus/debug/content',
+    component: ComponentCreator('/ranger-site/__docusaurus/debug/content', '586'),
+    exact: true
+  },
+  {
+    path: '/ranger-site/__docusaurus/debug/globalData',
+    component: ComponentCreator('/ranger-site/__docusaurus/debug/globalData', '025'),
+    exact: true
+  },
+  {
+    path: '/ranger-site/__docusaurus/debug/metadata',
+    component: ComponentCreator('/ranger-site/__docusaurus/debug/metadata', '39b'),
+    exact: true
+  },
+  {
+    path: '/ranger-site/__docusaurus/debug/registry',
+    component: ComponentCreator('/ranger-site/__docusaurus/debug/registry', 'd55'),
+    exact: true
+  },
+  {
+    path: '/ranger-site/__docusaurus/debug/routes',
+    component: ComponentCreator('/ranger-site/__docusaurus/debug/routes', '214'),
+    exact: true
+  },
+  {
     path: '/ranger-site/blog',
-    component: ComponentCreator('/ranger-site/blog', '8e7'),
+    component: ComponentCreator('/ranger-site/blog', 'af9'),
     exact: true
   },
   {
     path: '/ranger-site/blog/archive',
-    component: ComponentCreator('/ranger-site/blog/archive', '4fe'),
+    component: ComponentCreator('/ranger-site/blog/archive', '9ad'),
     exact: true
   },
   {
     path: '/ranger-site/blog/first-blog-post',
-    component: ComponentCreator('/ranger-site/blog/first-blog-post', 'eaa'),
+    component: ComponentCreator('/ranger-site/blog/first-blog-post', 'bc0'),
     exact: true
   },
   {
     path: '/ranger-site/blog/long-blog-post',
-    component: ComponentCreator('/ranger-site/blog/long-blog-post', '938'),
+    component: ComponentCreator('/ranger-site/blog/long-blog-post', '2e2'),
     exact: true
   },
   {
     path: '/ranger-site/blog/mdx-blog-post',
-    component: ComponentCreator('/ranger-site/blog/mdx-blog-post', '942'),
+    component: ComponentCreator('/ranger-site/blog/mdx-blog-post', '13a'),
     exact: true
   },
   {
     path: '/ranger-site/blog/tags',
-    component: ComponentCreator('/ranger-site/blog/tags', '30b'),
+    component: ComponentCreator('/ranger-site/blog/tags', '3ac'),
     exact: true
   },
   {
     path: '/ranger-site/blog/tags/docusaurus',
-    component: ComponentCreator('/ranger-site/blog/tags/docusaurus', '613'),
+    component: ComponentCreator('/ranger-site/blog/tags/docusaurus', 'e02'),
     exact: true
   },
   {
     path: '/ranger-site/blog/tags/facebook',
-    component: ComponentCreator('/ranger-site/blog/tags/facebook', 'e51'),
+    component: ComponentCreator('/ranger-site/blog/tags/facebook', 'f22'),
     exact: true
   },
   {
     path: '/ranger-site/blog/tags/hello',
-    component: ComponentCreator('/ranger-site/blog/tags/hello', '5af'),
+    component: ComponentCreator('/ranger-site/blog/tags/hello', 'e18'),
     exact: true
   },
   {
     path: '/ranger-site/blog/tags/hola',
-    component: ComponentCreator('/ranger-site/blog/tags/hola', '196'),
+    component: ComponentCreator('/ranger-site/blog/tags/hola', '792'),
     exact: true
   },
   {
     path: '/ranger-site/blog/welcome',
-    component: ComponentCreator('/ranger-site/blog/welcome', 'a74'),
+    component: ComponentCreator('/ranger-site/blog/welcome', '380'),
     exact: true
   },
   {
     path: '/ranger-site/markdown-page',
-    component: ComponentCreator('/ranger-site/markdown-page', '0c4'),
+    component: ComponentCreator('/ranger-site/markdown-page', '4c7'),
     exact: true
   },
   {
     path: '/ranger-site/docs',
-    component: ComponentCreator('/ranger-site/docs', 'e9a'),
+    component: ComponentCreator('/ranger-site/docs', '773'),
     routes: [
       {
         path: '/ranger-site/docs/category/tutorial---basics',
@@ -136,7 +171,7 @@ export default [
   },
   {
     path: '/ranger-site/',
-    component: ComponentCreator('/ranger-site/', '6a9'),
+    component: ComponentCreator('/ranger-site/', 'a63'),
     exact: true
   },
   {

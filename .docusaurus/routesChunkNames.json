@@ -1,204 +1,247 @@
 {
-  "/ranger-site/blog-8e7": {
-    "__comp": "a6aa9e1f",
+  "/ranger-site/__docusaurus/debug-ffa": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "651fd25e"
+      "plugin": "plugin---ranger-site-docusaurus-debug-784-d3a"
+    }
+  },
+  "/ranger-site/__docusaurus/debug/config-d9b": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ranger-site-docusaurus-debug-784-d3a"
+    }
+  },
+  "/ranger-site/__docusaurus/debug/content-586": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---ranger-site-docusaurus-debug-784-d3a"
     },
-    "sidebar": "814f3328",
+    "allContent": "allContent---ranger-site-docusaurus-debug-content-246-24a"
+  },
+  "/ranger-site/__docusaurus/debug/globalData-025": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---ranger-site-docusaurus-debug-784-d3a"
+    }
+  },
+  "/ranger-site/__docusaurus/debug/metadata-39b": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---ranger-site-docusaurus-debug-784-d3a"
+    }
+  },
+  "/ranger-site/__docusaurus/debug/registry-d55": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---ranger-site-docusaurus-debug-784-d3a"
+    }
+  },
+  "/ranger-site/__docusaurus/debug/routes-214": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---ranger-site-docusaurus-debug-784-d3a"
+    }
+  },
+  "/ranger-site/blog-af9": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---ranger-site-blog-725-79e"
+    },
+    "sidebar": "sidebar---ranger-site-blog-814-1bd",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---ranger-site-blog-766-ea6"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---ranger-site-blogf-4-f-3fd"
       },
       {
-        "content": "8717b14a"
+        "content": "content---ranger-site-blog-871-534"
       },
       {
-        "content": "925b3f96"
+        "content": "content---ranger-site-blog-925-143"
       }
     ],
-    "metadata": "0919719b"
+    "metadata": "metadata---ranger-site-blog-091-cf9"
   },
-  "/ranger-site/blog/archive-4fe": {
-    "__comp": "9e4087bc",
+  "/ranger-site/blog/archive-9ad": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "651fd25e"
+      "plugin": "plugin---ranger-site-blog-725-79e"
     },
-    "archive": "4d3b2f36"
+    "archive": "archive---ranger-site-blog-archive-4-d-3-fb5"
   },
-  "/ranger-site/blog/first-blog-post-eaa": {
-    "__comp": "ccc49370",
+  "/ranger-site/blog/first-blog-post-bc0": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "651fd25e"
+      "plugin": "plugin---ranger-site-blog-725-79e"
     },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
+    "sidebar": "sidebar---ranger-site-blog-814-1bd",
+    "content": "content---ranger-site-blog-first-blog-poste-27-79c"
   },
-  "/ranger-site/blog/long-blog-post-938": {
-    "__comp": "ccc49370",
+  "/ranger-site/blog/long-blog-post-2e2": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "651fd25e"
+      "plugin": "plugin---ranger-site-blog-725-79e"
     },
-    "sidebar": "814f3328",
-    "content": "73664a40"
+    "sidebar": "sidebar---ranger-site-blog-814-1bd",
+    "content": "content---ranger-site-blog-long-blog-post-736-4ae"
   },
-  "/ranger-site/blog/mdx-blog-post-942": {
-    "__comp": "ccc49370",
+  "/ranger-site/blog/mdx-blog-post-13a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "651fd25e"
+      "plugin": "plugin---ranger-site-blog-725-79e"
     },
-    "sidebar": "814f3328",
-    "content": "59362658"
+    "sidebar": "sidebar---ranger-site-blog-814-1bd",
+    "content": "content---ranger-site-blog-mdx-blog-post-593-9d5"
   },
-  "/ranger-site/blog/tags-30b": {
-    "__comp": "01a85c17",
+  "/ranger-site/blog/tags-3ac": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "651fd25e"
+      "plugin": "plugin---ranger-site-blog-725-79e"
     },
-    "sidebar": "814f3328",
-    "tags": "b52d6ea7"
+    "sidebar": "sidebar---ranger-site-blog-814-1bd",
+    "tags": "tags---ranger-site-blog-tagsb-52-664"
   },
-  "/ranger-site/blog/tags/docusaurus-613": {
-    "__comp": "6875c492",
+  "/ranger-site/blog/tags/docusaurus-e02": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "651fd25e"
+      "plugin": "plugin---ranger-site-blog-725-79e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---ranger-site-blog-814-1bd",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---ranger-site-blog-766-ea6"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---ranger-site-blogf-4-f-3fd"
       },
       {
-        "content": "8717b14a"
+        "content": "content---ranger-site-blog-871-534"
       },
       {
-        "content": "925b3f96"
+        "content": "content---ranger-site-blog-925-143"
       }
     ],
-    "tag": "0af38c3c",
-    "listMetadata": "d0b4dfb3"
+    "tag": "tag---ranger-site-blog-tags-docusaurus-0-af-056",
+    "listMetadata": "listMetadata---ranger-site-blog-tags-docusaurusd-0-b-4f1"
   },
-  "/ranger-site/blog/tags/facebook-e51": {
-    "__comp": "6875c492",
+  "/ranger-site/blog/tags/facebook-f22": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "651fd25e"
+      "plugin": "plugin---ranger-site-blog-725-79e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---ranger-site-blog-814-1bd",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---ranger-site-blog-766-ea6"
       }
     ],
-    "tag": "6e614061",
-    "listMetadata": "180fc999"
+    "tag": "tag---ranger-site-blog-tags-facebook-6-e-6-ce7",
+    "listMetadata": "listMetadata---ranger-site-blog-tags-facebook-180-c9c"
   },
-  "/ranger-site/blog/tags/hello-5af": {
-    "__comp": "6875c492",
+  "/ranger-site/blog/tags/hello-e18": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "651fd25e"
+      "plugin": "plugin---ranger-site-blog-725-79e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---ranger-site-blog-814-1bd",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---ranger-site-blog-766-ea6"
       },
       {
-        "content": "8717b14a"
+        "content": "content---ranger-site-blog-871-534"
       }
     ],
-    "tag": "6bf996c7",
-    "listMetadata": "089c9eed"
+    "tag": "tag---ranger-site-blog-tags-hello-6-bf-258",
+    "listMetadata": "listMetadata---ranger-site-blog-tags-hello-089-7d0"
   },
-  "/ranger-site/blog/tags/hola-196": {
-    "__comp": "6875c492",
+  "/ranger-site/blog/tags/hola-792": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "651fd25e"
+      "plugin": "plugin---ranger-site-blog-725-79e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---ranger-site-blog-814-1bd",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "content---ranger-site-blog-925-143"
       }
     ],
-    "tag": "d0f69765",
-    "listMetadata": "293ab43b"
+    "tag": "tag---ranger-site-blog-tags-holad-0-f-2eb",
+    "listMetadata": "listMetadata---ranger-site-blog-tags-hola-293-a51"
   },
-  "/ranger-site/blog/welcome-a74": {
-    "__comp": "ccc49370",
+  "/ranger-site/blog/welcome-380": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "651fd25e"
+      "plugin": "plugin---ranger-site-blog-725-79e"
     },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
+    "sidebar": "sidebar---ranger-site-blog-814-1bd",
+    "content": "content---ranger-site-blog-welcomed-9-f-cd6"
   },
-  "/ranger-site/markdown-page-0c4": {
-    "__comp": "1f391b9e",
+  "/ranger-site/markdown-page-4c7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "ab03b5db"
+      "plugin": "plugin---ranger-site-markdown-page-6-e-2-477"
     },
-    "content": "393be207"
+    "content": "content---ranger-site-markdown-page-393-f7a"
   },
-  "/ranger-site/docs-e9a": {
-    "__comp": "1be78505",
+  "/ranger-site/docs-773": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "209b5be8"
+      "plugin": "plugin---ranger-site-docs-37-f-32c"
     },
-    "versionMetadata": "935f2afb"
+    "versionMetadata": "versionMetadata---ranger-site-docs-935-694"
   },
   "/ranger-site/docs/category/tutorial---basics-dd2": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "87844ac9"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---ranger-site-docs-category-tutorial-basics-878-203"
   },
   "/ranger-site/docs/category/tutorial---extras-1bf": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "f48e7e82"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---ranger-site-docs-category-tutorial-extrasf-48-096"
   },
   "/ranger-site/docs/intro-9aa": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ranger-site-docs-intro-0-e-3-939"
   },
   "/ranger-site/docs/tutorial-basics/congratulations-2a2": {
-    "__comp": "17896441",
-    "content": "822bd8ab"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ranger-site-docs-tutorial-basics-congratulations-822-ab9"
   },
   "/ranger-site/docs/tutorial-basics/create-a-blog-post-9a4": {
-    "__comp": "17896441",
-    "content": "533a09ca"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ranger-site-docs-tutorial-basics-create-a-blog-post-533-0f0"
   },
   "/ranger-site/docs/tutorial-basics/create-a-document-3f4": {
-    "__comp": "17896441",
-    "content": "1e4232ab"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ranger-site-docs-tutorial-basics-create-a-document-1-e-4-acb"
   },
   "/ranger-site/docs/tutorial-basics/create-a-page-efb": {
-    "__comp": "17896441",
-    "content": "5c868d36"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ranger-site-docs-tutorial-basics-create-a-page-5-c-8-450"
   },
   "/ranger-site/docs/tutorial-basics/deploy-your-site-d35": {
-    "__comp": "17896441",
-    "content": "f55d3e7a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ranger-site-docs-tutorial-basics-deploy-your-sitef-55-bbb"
   },
   "/ranger-site/docs/tutorial-basics/markdown-features-31c": {
-    "__comp": "17896441",
-    "content": "18c41134"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ranger-site-docs-tutorial-basics-markdown-features-18-c-2cd"
   },
   "/ranger-site/docs/tutorial-extras/manage-docs-versions-365": {
-    "__comp": "17896441",
-    "content": "dff1c289"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ranger-site-docs-tutorial-extras-manage-docs-versionsdff-dda"
   },
   "/ranger-site/docs/tutorial-extras/translate-your-site-f11": {
-    "__comp": "17896441",
-    "content": "e44a2883"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ranger-site-docs-tutorial-extras-translate-your-sitee-44-acc"
   },
-  "/ranger-site/-6a9": {
-    "__comp": "c4f5d8e4",
+  "/ranger-site/-a63": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "ab03b5db"
+      "plugin": "plugin---ranger-site-markdown-page-6-e-2-477"
     },
-    "config": "5e9f5e1a"
+    "config": "config---ranger-site-5-e-9-fa9"
   }
 }
