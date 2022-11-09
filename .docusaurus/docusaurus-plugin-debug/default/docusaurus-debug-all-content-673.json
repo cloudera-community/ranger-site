@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/mohamedansari/Documents/CLDR_Community/ranger-site/sidebars.js",
-          "contentPath": "/Users/mohamedansari/Documents/CLDR_Community/ranger-site/docs",
-          "contentPathLocalized": "/Users/mohamedansari/Documents/CLDR_Community/ranger-site/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/kagarwal/Documents/ranger/ranger-site/sidebars.js",
+          "contentPath": "/Users/kagarwal/Documents/ranger/ranger-site/docs",
+          "contentPathLocalized": "/Users/kagarwal/Documents/ranger/ranger-site/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",

@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/mohamedansari/Documents/CLDR_Community/ranger-site/sidebars.js",
+          "sidebarPath": "/Users/kagarwal/Documents/ranger/ranger-site/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/mohamedansari/Documents/CLDR_Community/ranger-site/src/css/custom.css"
+          "customCss": "/Users/kagarwal/Documents/ranger/ranger-site/src/css/custom.css"
         }
       }
     ]
